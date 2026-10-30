@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="380" viewBox="0 0 1400 380" role="img" aria-labelledby="title desc">
+  <title id="title">Three Invisiotech product pillars</title>
+  <desc id="desc">Core engineering software, Originals hardware and Industrial engineering solutions.</desc>
+  <defs><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D2947"/><stop offset="1" stop-color="#041326"/></linearGradient><linearGradient id="accent"><stop stop-color="#006EA7"/><stop offset="1" stop-color="#47DCFF"/></linearGradient></defs>
+  <g fill="url(#card)" stroke="#205D82" stroke-width="3"><rect x="2" y="2" width="448" height="376" rx="20"/><rect x="476" y="2" width="448" height="376" rx="20"/><rect x="950" y="2" width="448" height="376" rx="20"/></g>
+  <g fill="url(#accent)"><rect x="28" y="30" width="118" height="5" rx="2"/><rect x="502" y="30" width="118" height="5" rx="2"/><rect x="976" y="30" width="118" height="5" rx="2"/></g>
+  <g fill="#65DEFF" font-family="Consolas,monospace" font-size="22" letter-spacing="3"><text x="30" y="86">01 // SOFTWARE</text><text x="504" y="86">02 // HARDWARE</text><text x="978" y="86">03 // SOLUTIONS</text></g>
+  <g fill="white" font-family="Arial,sans-serif" font-size="52" font-weight="800"><text x="30" y="162">CORE</text><text x="504" y="162">ORIGINALS</text><text x="978" y="162">INDUSTRIAL</text></g>
+  <g fill="#BDD5E3" font-family="Arial,sans-serif" font-size="24"><text x="30" y="218">Project integrity</text><text x="30" y="254">Validation &amp; assistance</text><text x="504" y="218">Original electronics</text><text x="504" y="254">Boards &amp; prototyping</text><text x="978" y="218">Application-driven work</text><text x="978" y="254">Industrial technology vision</text></g>
+  <g fill="none" stroke="#26759C" stroke-width="2"><rect x="29" y="301" width="392" height="53" rx="9"/><rect x="503" y="301" width="392" height="53" rx="9"/><rect x="977" y="301" width="392" height="53" rx="9"/></g>
+  <g fill="#6EDBFA" font-family="Consolas,monospace" font-size="20" font-weight="700"><text x="49" y="336">ENGINEERING SOFTWARE</text><text x="523" y="336">EMBEDDED INNOVATION</text><text x="997" y="336">APPLIED ENGINEERING</text></g>
+  <g fill="#42D4FD"><circle cx="398" cy="73" r="8"/><circle cx="872" cy="73" r="8"/><circle cx="1346" cy="73" r="8"/></g>
+</svg>

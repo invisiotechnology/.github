@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="240" viewBox="0 0 1400 240" role="img" aria-labelledby="title desc">
+  <title id="title">From idea to impact</title>
+  <desc id="desc">Design an idea, verify it using Core, publish it in Maker and let others discover and download it.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#061629"/><stop offset=".5" stop-color="#0B2443"/><stop offset="1" stop-color="#061629"/></linearGradient></defs>
+  <rect x="1" y="1" width="1398" height="238" rx="20" fill="url(#bg)" stroke="#236087" stroke-width="2"/>
+  <path d="M50 122H1350" stroke="#1B6388" stroke-width="7" stroke-linecap="round" stroke-dasharray="12 12"/>
+  <g fill="#091E35" stroke="#2BBCEB" stroke-width="3"><rect x="38" y="53" width="270" height="137" rx="15"/><rect x="389" y="53" width="270" height="137" rx="15"/><rect x="740" y="53" width="270" height="137" rx="15"/><rect x="1091" y="53" width="270" height="137" rx="15"/></g>
+  <g fill="#53D7FF" font-family="Consolas,monospace" font-size="19" letter-spacing="2"><text x="60" y="87">01 / DESIGN</text><text x="411" y="87">02 / CORE</text><text x="762" y="87">03 / MAKER</text><text x="1113" y="87">04 / COMMUNITY</text></g>
+  <g fill="#FFFFFF" font-family="Arial,sans-serif" font-size="29" font-weight="700"><text x="60" y="130">Create a project</text><text x="411" y="130">Verify integrity</text><text x="762" y="130">Publish it</text><text x="1113" y="130">Discover it</text></g>
+  <g fill="#B6D1DF" font-family="Arial,sans-serif" font-size="20"><text x="60" y="160">Develop an idea</text><text x="411" y="160">Rules and assistance</text><text x="762" y="160">Share with others</text><text x="1113" y="160">Explore and download</text></g>
+  <g fill="#55DFFE"><circle cx="349" cy="122" r="8"/><circle cx="700" cy="122" r="8"/><circle cx="1051" cy="122" r="8"/></g>
+</svg>

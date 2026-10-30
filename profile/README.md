@@ -1,70 +1,88 @@
 <div align="center">
 
-  <img src="../assets/invisiotech-banner.png" alt="Invisiotech official logo" width="100%" />
+  <img src="../assets/invisiotech-banner.png" alt="Official Invisiotech logo" width="100%" />
 
-  <h1>Mastering the Unseen</h1>
-
-  <p>
-    Building an engineering ecosystem across software, original electronics,
-    and industrial technologies.
-  </p>
+  <img src="../assets/hero-panel.svg" alt="Mastering the Unseen — engineering ideas, verified systems, shared innovation" width="100%" />
 
   <p>
-    <a href="https://invisiotech.tr"><img src="https://img.shields.io/badge/Explore-Invisiotech-00A9EF?style=for-the-badge&labelColor=081426" alt="Explore Invisiotech" /></a>
+    <a href="https://invisiotech.tr"><img src="https://img.shields.io/badge/EXPLORE%20INVISIOTECH-VISIT%20WEBSITE-00B8F5?style=for-the-badge&labelColor=071526" alt="Visit Invisiotech website" /></a>
+    <img src="https://img.shields.io/badge/ENGINEERING-ECOSYSTEM-163B61?style=for-the-badge&labelColor=071526" alt="Engineering ecosystem" />
+    <img src="https://img.shields.io/badge/BUILT%20FOR-CREATORS-163B61?style=for-the-badge&labelColor=071526" alt="Built for creators" />
   </p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Engineering-Software-117BC1?style=flat-square&labelColor=081426" alt="Engineering Software" />
-    <img src="https://img.shields.io/badge/Embedded-Systems-117BC1?style=flat-square&labelColor=081426" alt="Embedded Systems" />
-    <img src="https://img.shields.io/badge/AI-Assisted-117BC1?style=flat-square&labelColor=081426" alt="AI-Assisted" />
-    <img src="https://img.shields.io/badge/Electronics-Hardware-117BC1?style=flat-square&labelColor=081426" alt="Electronics Hardware" />
-  </p>
+  <p><strong>SOFTWARE &nbsp;·&nbsp; ELECTRONICS &nbsp;·&nbsp; INDUSTRIAL TECHNOLOGY</strong></p>
 
 </div>
 
 ---
 
-## Where disciplines connect
+<h2 align="center">One vision. Multiple disciplines.</h2>
 
-Great engineering is more than a collection of files and components. It is a
-coherent process — from the first idea to a design that can be documented,
-tested, improved, and built.
+<p align="center">
+  From the first engineering concept to validation, prototyping and project sharing,<br />
+  <strong>Invisiotech</strong> is building a connected ecosystem for people who design what comes next.
+</p>
 
-**Invisiotech** is working toward a connected technology ecosystem that brings
-engineering workflows, hardware development, and practical applications together.
+<p align="center">
+  <img src="../assets/ecosystem-cards.svg" alt="The three Invisiotech pillars: Core, Originals and Industrial" width="100%" />
+</p>
 
-## Our three pillars
+### Beyond the tools — a space to create and discover
 
 <table>
   <tr>
-    <th width="33%">01 / CORE</th>
-    <th width="33%">02 / ORIGINALS</th>
-    <th width="34%">03 / INDUSTRIAL</th>
+    <td width="50%" valign="top">
+      <h3>◈ Invisiotech Core</h3>
+      <p><strong>Engineering validation and assistance</strong></p>
+      <p>Build with more clarity. Core focuses on rule-based project verification, interdisciplinary consistency, and AI-assisted workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◇ Invisiotech Maker</h3>
+      <p><strong>Publish · Discover · Download</strong></p>
+      <p>A place for makers and engineers to publish their projects, explore shared work, and download projects from the community.</p>
+    </td>
   </tr>
   <tr>
-    <td><strong>Engineering software</strong></td>
-    <td><strong>Original hardware</strong></td>
-    <td><strong>Industrial solutions</strong></td>
-  </tr>
-  <tr>
-    <td>Project integrity, rule-based validation, structured development, and AI-assisted engineering workflows.</td>
-    <td>Electronic boards, embedded systems, prototyping tools, and education-oriented hardware.</td>
-    <td>Our long-term direction for application-driven engineering, automation, and tailored technology systems.</td>
+    <td width="50%" valign="top">
+      <h3>⬡ Invisiotech Originals</h3>
+      <p><strong>Original electronics and hardware</strong></p>
+      <p>Our direction for original electronic boards, embedded systems, prototyping hardware, and product-centered documentation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌁ Invisiotech Knowledge</h3>
+      <p><strong>Structured technical learning · Planned</strong></p>
+      <p>A dedicated knowledge library is on the roadmap. It will be developed as part of the Invisiotech platform, separate from GitHub.</p>
+    </td>
   </tr>
 </table>
 
-## What drives us
+<h2 align="center">From idea to impact</h2>
 
-- **Integrity:** Engineering decisions should remain traceable across disciplines.
-- **Verification:** A useful result should be backed by clear requirements and real tests.
-- **Originality:** Develop technology and know-how, not only assemble existing tools.
-- **Accessibility:** Make technical knowledge and tools easier to use and understand.
-
-## Connect
+<p align="center">A simple direction for the experience we are building:</p>
 
 <p align="center">
-  <strong>Mastering the Unseen</strong><br />
-  <a href="https://invisiotech.tr">invisiotech.tr</a>
+  <img src="../assets/engineering-flow.svg" alt="Engineering flow: design, verify with Core, publish with Maker, discover and download" width="100%" />
 </p>
 
-<p align="center"><sub>Invisiotech · Engineering • Electronics • Technology</sub></p>
+### How we think about engineering
+
+| Principle | What it means to us |
+| :--- | :--- |
+| **Integrity** | Decisions, requirements and components should stay connected across disciplines. |
+| **Verification** | Projects benefit from testable rules, clear assumptions and actionable feedback. |
+| **Originality** | Engineering means building original capability and understanding the technology beneath it. |
+| **Accessibility** | Learning resources, reusable projects and practical tools should be easier to reach. |
+
+---
+
+<div align="center">
+
+  <h2>Let's engineer what isn't visible yet.</h2>
+
+  <p>Explore the ecosystem, discover projects and follow what's taking shape.</p>
+
+  <a href="https://invisiotech.tr"><img src="https://img.shields.io/badge/INVISIOTECH.TR-EXPLORE%20THE%20ECOSYSTEM-00B8F5?style=for-the-badge&labelColor=071526" alt="Explore Invisiotech" /></a>
+
+  <p><sub>INVISIOTECH &nbsp;•&nbsp; MASTERING THE UNSEEN</sub></p>
+
+</div>

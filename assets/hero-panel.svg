@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="390" viewBox="0 0 1400 390" role="img" aria-labelledby="title desc">
+  <title id="title">Mastering the Unseen</title>
+  <desc id="desc">Invisiotech engineering ecosystem with futuristic cyan circuits.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07182D"/><stop offset=".55" stop-color="#0A2440"/><stop offset="1" stop-color="#020814"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#007EBB"/><stop offset=".5" stop-color="#41DCFF"/><stop offset="1" stop-color="#006AAB"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#00B7F5" stop-opacity=".28"/><stop offset="1" stop-color="#00B7F5" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#164262" stroke-width="1" opacity=".6"/></pattern>
+  </defs>
+  <rect width="1400" height="390" rx="24" fill="url(#bg)"/>
+  <rect width="1400" height="390" rx="24" fill="url(#grid)" opacity=".4"/>
+  <rect x="1.5" y="1.5" width="1397" height="387" rx="22.5" fill="none" stroke="#2D7094" stroke-width="3"/>
+  <circle cx="1130" cy="184" r="335" fill="url(#glow)"/>
+  <path d="M70 73H273" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="70" cy="73" r="7" fill="#42DCFF"/>
+  <text x="70" y="115" fill="#7BDBFB" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="6">INVISIOTECH / ENGINEERING ECOSYSTEM</text>
+  <text x="67" y="208" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="65" font-weight="800" letter-spacing="-1.5">Mastering the Unseen</text>
+  <text x="70" y="260" fill="#AFCEDF" font-family="Arial,sans-serif" font-size="25">Engineering ideas. Verified systems. Shared innovation.</text>
+  <g font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2">
+    <rect x="70" y="298" width="146" height="42" rx="9" fill="#0B3350" stroke="#2C83AA"/>
+    <text x="98" y="326" fill="#7DE4FF">CREATE</text>
+    <path d="M234 319H268l-9-8m9 8-9 8" fill="none" stroke="#42DCFF" stroke-width="3"/>
+    <rect x="283" y="298" width="146" height="42" rx="9" fill="#0B3350" stroke="#2C83AA"/>
+    <text x="311" y="326" fill="#7DE4FF">VERIFY</text>
+    <path d="M448 319h35l-9-8m9 8-9 8" fill="none" stroke="#42DCFF" stroke-width="3"/>
+    <rect x="498" y="298" width="146" height="42" rx="9" fill="#0B3350" stroke="#2C83AA"/>
+    <text x="529" y="326" fill="#7DE4FF">SHARE</text>
+  </g>
+  <g fill="none" stroke="#2DCBFC">
+    <circle cx="1130" cy="190" r="121" stroke-width="2" opacity=".7"/>
+    <circle cx="1130" cy="190" r="86" stroke-width="2" opacity=".6" stroke-dasharray="12 13"/>
+    <circle cx="1130" cy="190" r="47" stroke-width="3"/>
+    <path d="M1130 69V35m0 276v38M1009 190h-38m280 0h53" stroke-width="3"/>
+    <path d="m1044 105-68-34h-48m288 34 58-31h44m-274 201-68 32h-43m283-32 58 30h54" stroke-width="2" opacity=".7"/>
+    <path d="M1105 190h50m-25-25v50" stroke-width="3"/>
+  </g>
+  <g fill="#39D5FF">
+    <circle cx="1130" cy="69" r="8"/><circle cx="1251" cy="190" r="8"/><circle cx="1009" cy="190" r="8"/><circle cx="1130" cy="311" r="8"/>
+    <circle cx="928" cy="71" r="6"/><circle cx="1318" cy="74" r="6"/><circle cx="933" cy="307" r="6"/><circle cx="1328" cy="305" r="6"/>
+    <circle cx="1130" cy="190" r="13"/>
+  </g>
+  <text x="1040" y="360" fill="#90C3DB" font-family="Consolas,monospace" font-size="17">CORE // MAKER</text>
+</svg>
